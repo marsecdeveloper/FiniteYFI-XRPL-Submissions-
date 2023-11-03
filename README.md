@@ -21,6 +21,7 @@ FiniteYFI is a decentralized autonomous organization (DAO) that reimagines the u
 
 ## Developed By
 **MUHAMMAD ADIL RAZA**
+
 **SHAHZAIB NAHAR**
 
 ## Website
