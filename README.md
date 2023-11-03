@@ -1,2 +1,3 @@
-# MARSEC-developer
- The huge platform for the Tech geeks and the developers related to IT and data science and development to work remotely and earn the money. providing service of DATA science, AI , cloud computing, BlockChain, Shared Hosting , SEO, IoT, and BIG Data with our products. Team-based Marketing solution to the youth and Pakistan 
+# FiniteYFI: A DApp Project on the XRP Ledger
+FiniteYFI is an Uber DApp (Decentralized Application) developed on the XRP Ledger, as part of the XRP Campus Ambassador Program, by Muhammad Adil Raza and Shahzaib Nahar dedicated XRP Campus Ambassadors. 
+This cutting-edge DeFi project is designed to provide users with innovative financial solutions, harnessing the power of the XRP Ledger.
